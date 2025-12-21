@@ -7,7 +7,7 @@
   <p align="center">
     <b>"Tecnologia é o meio, a solução é o fim."</b><br>
     Estudante de Análise e Desenvolvimento de Sistemas (IFBA) focado em resolver problemas reais.<br>
-    Combino a robustez do <b>Ecosistema Java</b> com a inovação de <b>Automações e IA</b> para entregar valor.
+    Combino a robustez do <b>Ecossistema Java</b> com a inovação de <b>Automações e IA</b> para entregar valor.
   </p>
 
   <a href="https://www.linkedin.com/in/euguilhermecursino/">
