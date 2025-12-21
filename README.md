@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Guilherme%20Cursino&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=35" alt="Header Guilherme Cursino"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Guilherme%20Cursino&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=35" alt="Header Guilherme Cursino" width="100%"/>
 
   <h3>Backend Developer | Soluções & Arquitetura de Software</h3>
   
@@ -21,7 +21,7 @@
 
 <br>
 
-### 🛠️ O Cinto de Utilidades (Stack)
+### 🛠️ Tech Stack
 
 Não me limito a ferramentas, mas estas são as que utilizo para construir soluções robustas atualmente:
 
@@ -30,10 +30,11 @@ Não me limito a ferramentas, mas estas são as que utilizo para construir solu�
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
     <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-    <img src="https://img.shields.io/badge/MySQL-00000f?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
 </div>
 
 <br>
