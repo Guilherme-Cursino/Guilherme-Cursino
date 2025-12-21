@@ -1,16 +1,51 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Guilherme-Cursino/Guilherme-Cursino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Guilherme%20Cursino&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=35" alt="Header Guilherme Cursino" width="100%"/>
 
-Here are some ideas to get you started:
+  <h3>Backend Developer | Soluções & Arquitetura de Software</h3>
+  
+  <p align="center">
+    <b>"Tecnologia é o meio, a solução é o fim."</b><br>
+    Estudante de Análise e Desenvolvimento de Sistemas (IFBA) focado em resolver problemas reais.<br>
+    Combino a robustez do <b>Ecosistema Java</b> com a inovação de <b>Automações e IA</b> para entregar valor.
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://www.linkedin.com/in/euguilhermecursino/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:eu.guilherme.henriq@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+
+</div>
+
+<br>
+
+### 🛠️ O Cinto de Utilidades (Stack)
+
+Não me limito a ferramentas, mas estas são as que utilizo para construir soluções robustas atualmente:
+
+<div align="left">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+    <img src="https://img.shields.io/badge/MySQL-00000f?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+</div>
+
+<br>
+
+### 🔭 Foco Atual & Estudos
+
+Minha rotina de estudos é direcionada para arquitetura e eficiência:
+
+* 🏗️ **Base Sólida:** Consolidando fundamentos ao cursar **Análise e Desenvolvimento de Sistemas** (IFBA)
+* 🔐 **Segurança:** Implementando **Spring Security** (OAuth2/JWT) para blindar aplicações.
+* 🤖 **Agentes de IA:** Aprofundando conhecimentos em **Python** e **n8n** para a criação de fluxos inteligentes.
+
+---
+
+<div align="center">
+  <p><i>Portfólio em construção, evoluindo um commit de cada vez.</i></p>
+</div>
