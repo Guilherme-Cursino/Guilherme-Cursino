@@ -44,7 +44,7 @@ Não me limito a ferramentas, mas estas são as que utilizo para construir solu�
 Minha rotina de estudos é direcionada para arquitetura e eficiência:
 
 * 🏗️ **Base Sólida:** Consolidando fundamentos ao cursar **Análise e Desenvolvimento de Sistemas** (IFBA)
-* 🔐 **Segurança:** Implementando **Spring Security** (OAuth2/JWT) para blindar aplicações.
+* 🔐 **Segurança:** Implementando **Spring Security** (OAuth2/JWT) e **testes automatizados** para blindar aplicações.
 * 🤖 **Agentes de IA:** Aprofundando conhecimentos em **Python** e **n8n** para a criação de fluxos inteligentes.
 
 ---
