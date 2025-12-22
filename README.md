@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Guilherme%20Cursino&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=35" alt="Header Guilherme Cursino" width="100%"/>
+  <a href="https://www.linkedin.com/in/euguilhermecursino/"><img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Guilherme%20Cursino&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=35" alt="Header Guilherme Cursino" width="100%"/>
 
   <h3>Backend Developer | Soluções & Arquitetura de Software</h3>
   
