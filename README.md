@@ -41,11 +41,12 @@ Não me limito a ferramentas, mas estas são as que utilizo para construir solu�
 
 ### 🔭 Foco Atual & Estudos
 
-Minha rotina de estudos é direcionada para arquitetura e eficiência:
+Minha rotina de estudos é direcionada para arquitetura, eficiência e inovação:
 
 * 🏗️ **Base Sólida:** Consolidando fundamentos ao cursar **Análise e Desenvolvimento de Sistemas** (IFBA)
+* 🧩 **Algoritmos e Estruturas de Dados**: Me aprofundando continuamente para garantir eficiência em minhas soluções.
 * 🔐 **Segurança:** Implementando **Spring Security** (OAuth2/JWT) e **testes automatizados** para blindar aplicações.
-* 🤖 **Agentes de IA:** Aprofundando conhecimentos em **Python** e **n8n** para a criação de fluxos inteligentes.
+* 🧠 **Inovação com IA**: Explorando **Engenharia de Prompt** e desenvolvimento de **Agentes de IA** autônomos, integrando modelos de GenAI para criar fluxos inteligentes.
 
 ---
 
