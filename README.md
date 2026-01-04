@@ -43,10 +43,10 @@ Não me limito a ferramentas, mas estas são as que utilizo para construir solu�
 
 Minha rotina de estudos é direcionada para arquitetura, eficiência e inovação:
 
-* 🏗️ **Base Sólida:** Consolidando fundamentos ao cursar **Análise e Desenvolvimento de Sistemas** (IFBA)
-* 🧩 **Algoritmos e Estruturas de Dados**: Me aprofundando continuamente para garantir eficiência em minhas soluções.
+* 🧩 **Algoritmos e Estruturas de Dados:** Me aprofundando continuamente para garantir eficiência em minhas soluções.
 * 🔐 **Segurança:** Implementando **Spring Security** (OAuth2/JWT) e **testes automatizados** para blindar aplicações.
-* 🧠 **Inovação com IA**: Explorando **Engenharia de Prompt** e desenvolvimento de **Agentes de IA** autônomos, integrando modelos de GenAI para criar fluxos inteligentes.
+* 🐍 **Python e FastAPI:** Arquitetando APIs de alto desempenho e integrações rápidas.
+* 🧠 **Inovação com IA:** Explorando **Engenharia de Prompt** e desenvolvimento de **Agentes de IA** autônomos, integrando modelos de GenAI para criar fluxos inteligentes.
 
 ---
 
