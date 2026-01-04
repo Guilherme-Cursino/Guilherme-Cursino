@@ -2,7 +2,7 @@
 
   <a href="https://www.linkedin.com/in/euguilhermecursino/"><img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Guilherme%20Cursino&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=35" alt="Header Guilherme Cursino" width="100%"/>
 
-  <h3>Backend Developer | Soluções | Código Limpo</h3>
+  <h3>Backend Developer | Soluções e Código Limpo</h3>
   
   <p align="center">
     <b>"Tecnologia é o meio, a solução é o fim."</b><br>
