@@ -34,9 +34,9 @@
 <br>
 
 Não me limito a ferramentas, mas estas são as que utilizo para construir soluções atualmente:
-* Java e Spring Boot para construir o backend robusto e escalável que sustenta aplicações críticas. 
-* Microsoft SQL Server e MySQL para modelagem e manipulação estratégica de Bancos de Dados. 
-* Docker para garantir ambientes consistentes e Git/GitHub para versionamento confiável.
+* **Java** e **Spring Boot** para construir o backend robusto e escalável que sustenta aplicações críticas. 
+* **Microsoft SQL Server** e **MySQL** para modelagem e manipulação estratégica de Bancos de Dados. 
+* **Docker** para garantir ambientes consistentes e **Git/GitHub** para versionamento confiável.
 
 ### 🧠 Foco Atual
 Ao mesmo tempo em que me aprofundo no estudo da engenharia de software tradicional, estou expandindo meus horizontes para entender como a Inteligência Artificial pode inovar.
